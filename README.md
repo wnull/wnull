@@ -1,6 +1,6 @@
 ### Hi there! 
 
-My name is Vasily and I'm a backend software engineer. I'm from Russia, living in Moscow. I am mainly engaged in parsing and combining big data from various resources.
+My name is Vasily and I'm a backend software engineer. I'm from Russia, living in Moscow. I am mainly engaged in parsing and combining big data from various resources. Sometimes I do projects related to the games I play.
 
 ### Technologies & Tools
 
