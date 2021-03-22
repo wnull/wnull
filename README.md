@@ -5,5 +5,9 @@ My name is Vasily and I'm a backend software engineer. I'm from Russia, living i
 ### Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Editors-PhpStorm-informational?style=flat-square&logo=phpstorm&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat-square&logo=phpstorm&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
+
+### Contacts
+
+If you have any suggestions or questions, you can contact me in the [Telegram](https://t.me/wnull).
